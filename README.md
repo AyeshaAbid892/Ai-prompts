@@ -1,17 +1,17 @@
 <div align="center">
 
 # ⚡ Advanced Prompt Engineering
-### Production-Grade AI Workflows · What / How / Why Framework
+### ⚙️ Production-Grade AI Workflows · What / How / Why Framework
 
 ![Framework](https://img.shields.io/badge/Framework-What_%2F_How_%2F_Why-27500A?style=flat-square&labelColor=EAF3DE)
 ![Architecture](https://img.shields.io/badge/Architecture-Enterprise_MERN_%2B_AI-0C447C?style=flat-square&labelColor=E6F1FB)
-![Quality](https://img.shields.io/badge/Code_Quality-Production_Ready-3C3489?style=flat-square&labelColor=EEEDFE)
+![Quality](https://img.shields.io/badge/Prompt_Quality-Production_Ready-3C3489?style=flat-square&labelColor=EEEDFE)
 
 </div>
 
 ---
 
-> **`Ai-prompts`** is a curated collection of precision-engineered prompts built for real-world developer challenges — spanning distributed systems, database optimization, AI infrastructure, frontend performance, and backend security. Every prompt follows a strict 3-component framework designed to eliminate hallucinations and produce deterministic, production-ready outputs.
+> **`Ai-prompts`** is a curated collection of precision-engineered prompts built for real-world developer challenges, spanning distributed systems, database optimization, AI infrastructure, frontend performance, and backend security. Every prompt follows a strict 3-component framework designed to eliminate hallucinations and produce deterministic, production-ready outputs.
 
 ---
 
@@ -101,8 +101,8 @@
 
 <div align="center">
 
-**Built for engineers who expect AI to work as hard as they do.**
+**⚡ Production-grade prompt architecture for enterprise workflows.**
 
-*Structured · Deterministic · Reusable*
+*Deterministic · Predictable · Production-Ready*
 
 </div>
